@@ -1,4 +1,6 @@
-# Learn JavaScript by Example
+# <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="25" />&nbsp; Learn JavaScript by Example
+
+This repository holds a collection of Javascript mini-projects perfect for bold beginners into Javascript to experiment with. They can be used as a reference and are intended to be self-explanatory with the comments included in the code. Some of the examples are work in progress.
 
 1. [Word count tool:](https://jsfiddle.net/jamesmurdza/gxt1mb70/) A webpage with a text field and a live count showing the number of words, using plain Javascript.
 1. [Progress bar:](https://jsfiddle.net/jamesmurdza/ur5yLszm/) A webpage with a looping progress bar, using plain Javascript and CSS.
